@@ -42,6 +42,10 @@ footer {
   height: 2rem;
   width: 100%;
 }
+
+footer .copyright {
+  max-width: 960px;
+}
 .not-found {
   text-align: center;
 }

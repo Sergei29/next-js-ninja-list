@@ -3,7 +3,9 @@ import React from "react";
 const Footer: React.FC = () => {
   return (
     <footer>
-      <small>Copyright&copy; 2021 Ninja List</small>
+      <div className="copyright">
+        <small>Copyright&copy; 2021 Ninja List</small>
+      </div>
     </footer>
   );
 };
