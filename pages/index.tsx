@@ -1,4 +1,4 @@
-import NavLink from "../components/Navbar/NavLink/NavLink";
+import NavLink from "../components/NavLink/NavLink";
 import classes from "../styles/Home.module.css";
 
 const Home: React.FC = () => {

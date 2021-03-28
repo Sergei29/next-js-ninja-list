@@ -42,3 +42,10 @@ footer {
   height: 2rem;
   width: 100%;
 }
+.not-found {
+  text-align: center;
+}
+.not-found a {
+  color: #4979ff;
+  text-decoration: underline;
+}
